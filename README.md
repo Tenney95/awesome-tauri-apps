@@ -131,13 +131,14 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 Contributions are welcome! To add an app:
 
 1. It must be **built with Tauri** (v1 or v2).
-2. It must be a **usable application**, not a template, library or plugin.
-3. It should have a public website or repository and be reasonably maintained.
-4. **Pricing must be clear.** If the app is not free, add the label `(Paid)` or `(Commercial)` at the end of the description:
+3. It must be a **usable application**, not a template, library or plugin.
+4. It should have a public website or repository.
+5. The app must be actively maintained
+6. **Pricing must be clear.** If the app is not free, add the label `(Paid)` or `(Commercial)` at the end of the description:
    - `(Paid)`: one-time purchase or subscription required to use it.
    - `(Commercial)`: free tier or free to try, but a commercial product with paid plans or features.
    - No label means the app is completely free to use.
-5. Add it to the right category, in **alphabetical order**, using this format:
+7. Add it to the right category, in **alphabetical order**, using this format:
 
    ```md
    - [App Name](https://link) - Short description, ending with a period.
@@ -145,7 +146,7 @@ Contributions are welcome! To add an app:
    - [Commercial App](https://link) - Short description. (Commercial)
    ```
 
-6. Open a pull request titled `Add App Name (Category)`, e.g. `Add Handy (Speech & Transcription)`.
+8. Open a pull request titled `Add App Name (Category)`, e.g. `Add Handy (Speech & Transcription)`.
 
 Open-source and closed-source apps are both accepted. Mention it in the description if the app is closed-source.
 
