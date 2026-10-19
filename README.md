@@ -54,7 +54,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ### Creative Tools
 
-- [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - Lightweight, local-first AI creative workspace for image/video generation, storyboarding, video editing and asset management, with ComfyUI workflows, AI agents and MCP. Source-available.
+- [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - Free-to-use, lightweight, local-first AI creative workspace for image/video generation, storyboarding, video editing and asset management, with ComfyUI workflows, AI agents and MCP. Source-available.
 
 ## Notes & Knowledge
 
